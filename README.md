@@ -16,8 +16,3 @@
 
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=AbdessamadEnabih&theme=dracula&hide_border=true&border_radius=4.4&hide_longest_streak=true)](https://git.io/streak-stats)
-
-
-
-
-
