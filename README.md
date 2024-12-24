@@ -15,7 +15,4 @@
 </p>
 
 
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=AbdessamadEnabih&theme=dracula&hide_border=true&border_radius=4.4&hide_longest_streak=true)](https://git.io/streak-stats)
-
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdessamadEnabih&theme=dracula&hide=php&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
